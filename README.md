@@ -1,6 +1,6 @@
 # React App
 
-An application for learning the react framework built from scratch using Academind course for React.
+An application for learning the react framework built from scratch using Academind course for React. 
 
 ## Author
 Joseph Ndegwa
@@ -17,6 +17,8 @@ Navigate to `` and serve on the web.
 # To-do
 * Add more functionalities 
 
+# Additional info
+* Please note that the tutorials on Youtube were made by an earlier version of React and some elements in this might be different from what's on their course video.
 
 
 
